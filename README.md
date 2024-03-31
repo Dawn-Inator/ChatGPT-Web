@@ -30,7 +30,6 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
-![cover](./docs/images/cover.png)
 
 </div>
 
@@ -130,10 +129,6 @@ We recommend that you follow the steps below to re-deploy:
 > If you encounter a failure of Upstream Sync execution, please manually sync fork once.
 
 After forking the project, due to the limitations imposed by GitHub, you need to manually enable Workflows and Upstream Sync Action on the Actions page of the forked project. Once enabled, automatic updates will be scheduled every hour:
-
-![Automatic Updates](./docs/images/enable-actions.jpg)
-
-![Enable Automatic Updates](./docs/images/enable-actions-sync.jpg)
 
 ### Manually Updating Code
 
@@ -311,12 +306,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 - [How to add a new translation](./docs/translation.md)
 - [How to use Vercel (No English)](./docs/vercel-cn.md)
 - [User Manual (Only Chinese, WIP)](./docs/user-manual-cn.md)
-
-## Screenshots
-
-![Settings](./docs/images/settings.png)
-
-![More](./docs/images/more.png)
 
 ## Translation
 
